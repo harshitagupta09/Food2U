@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "316917226297",
+    "firebase_url": "https://myapplication-8dd21.firebaseio.com",
+    "project_id": "myapplication-8dd21",
+    "storage_bucket": "myapplication-8dd21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316917226297:android:78f9ce18f431605d",
+        "android_client_info": {
+          "package_name": "trainedge.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316917226297-u2v2u0qlkin4de1sb45vu8jn6piks6sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trainedge.myapplication",
+            "certificate_hash": "b2acbcd381be1c650bedcff5ef742f5c6cf21c84"
+          }
+        },
+        {
+          "client_id": "316917226297-ogctqlegvn7949emios0dnt5mdu00uhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPIJqU4OQYaS90zHTJgohLL2Sq1tkpHgU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316917226297-ogctqlegvn7949emios0dnt5mdu00uhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
